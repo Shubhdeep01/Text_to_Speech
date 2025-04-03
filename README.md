@@ -61,18 +61,6 @@ Ensure you have the following installed on your system:
 3. The system will generate and play the speech audio.
 4. Optionally, users can modify the voice or speech rate settings.
 
-## Project Structure
-```
-text-to-speech/
-│-- static/
-│   ├── styles.css
-│   ├── script.js
-│-- templates/
-│   ├── index.html
-│-- app.py
-│-- requirements.txt
-│-- README.md
-```
 
 ## Dependencies
 - Flask
